@@ -1,1 +1,2 @@
 # ds110-final-project
+My partner and I created a study to determine whether collegiate athletes youth sports experience has an effect on how much they still enjoy their sport in college. A google form was made and distributed to people we know in college sports. Once the results were in, the google form was converted to a csv file and the data was refined in Microsoft excel. The refined data was then uploaded to GoogleCollab where the results were formed into data frames in python. Pandas, matplotlib, numpy, and  scipy.stats were used to analyze the data.
